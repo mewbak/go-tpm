@@ -25,3 +25,7 @@ tags
 
 # Generated files
 constants_string.go
+
+# go.work files shouldn't be in VCS: https://go.dev/ref/mod#go-work-file
+go.work
+go.work.sum
